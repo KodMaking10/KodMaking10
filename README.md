@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Merhaba, ben Kayra  
 
-<!--
-**KodMaking10/KodMaking10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web geliştirme ile ilgileniyorum.  
+🚀 Şirketlere web siteleri için destek veriyor, ayrıca freelance projeler yapıyorum.  
+✨ Amacım modern, hızlı ve kullanıcı dostu web uygulamaları geliştirmek.  
 
-Here are some ideas to get you started:
+## 🔧 Kullandığım Teknolojiler
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express (temel düzeyde)  
+- **Diğer:** Git, GitHub, Firebase, REST API  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 İlgi Alanlarım
+- Web Frontend & Backend  
+- UI/UX tasarımı  
+- Yeni teknolojiler öğrenmek  
+
+---
+⭐️ GitHub benim öğrenme, geliştirme ve projelerimi paylaşma alanım.  
